@@ -1,0 +1,8 @@
+C:\Users\Adalberto\Documents\SharpDevelop Projects\Actividad2_Grafos\Actividad2_Grafos\obj\Debug\Actividad2_Grafos.csprojResolveAssemblyReference.cache
+C:\Users\Adalberto\Documents\SharpDevelop Projects\Actividad2_Grafos\Actividad2_Grafos\bin\Debug\Actividad2_Grafos.exe.config
+C:\Users\Adalberto\Documents\SharpDevelop Projects\Actividad2_Grafos\Actividad2_Grafos\bin\Debug\Actividad2_Grafos.exe
+C:\Users\Adalberto\Documents\SharpDevelop Projects\Actividad2_Grafos\Actividad2_Grafos\bin\Debug\Actividad2_Grafos.pdb
+C:\Users\Adalberto\Documents\SharpDevelop Projects\Actividad2_Grafos\Actividad2_Grafos\obj\Debug\Actividad2_Grafos.MainForm.resources
+C:\Users\Adalberto\Documents\SharpDevelop Projects\Actividad2_Grafos\Actividad2_Grafos\obj\Debug\Actividad2_Grafos.csproj.GenerateResource.Cache
+C:\Users\Adalberto\Documents\SharpDevelop Projects\Actividad2_Grafos\Actividad2_Grafos\obj\Debug\Actividad2_Grafos.exe
+C:\Users\Adalberto\Documents\SharpDevelop Projects\Actividad2_Grafos\Actividad2_Grafos\obj\Debug\Actividad2_Grafos.pdb
